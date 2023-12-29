@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["dom", "es2015"],
+      "outDir": "./scripts",
+      "rootDir": "./",  // Update this line to include the correct path
+      "strict": true
+    }
+  }
+  
