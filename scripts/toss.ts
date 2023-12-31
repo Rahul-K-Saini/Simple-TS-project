@@ -20,8 +20,8 @@ function toss(): void {
     setTimeout(() => {
       image.classList.remove('animation');
       button.disabled = false;
+      setCoinFace(Math.floor(Math.random() * 2) + 1)
     }, 2000);
   
-    setTimeout(() => setCoinFace(Math.floor(Math.random() * 2) + 1), 1800);
   }
   
