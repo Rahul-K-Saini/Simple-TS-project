@@ -52,10 +52,10 @@ img {
     transform: translate3d(0, 0, 0) rotateX(0deg);
   }
   25%, 40% {
-    transform: translate3d(0, -300px, 0) rotateX(360deg);
+    transform: translate3d(0, -320px, 0) rotateX(360deg);
   }
   40%, 60% {
-    transform: translate3d(0, -300px, 0) rotateX(360deg);
+    transform: translate3d(0, -320px, 0) rotateX(360deg);
   }
   60%, 100% {
     transform: translate3d(0, 0, 0) rotateX(0deg);
